@@ -1,0 +1,1 @@
+const TOKEN_NAME = 'authToken';
