@@ -1,2 +1,2 @@
-export const VALIDATE_USERLOGIN_API_ENDPOINT = '/NotusCloudApi/v3/login?silo=congility_demo';
-export const FETCH_PUBLICATIONS_API_ENDPOINT = '/NotusCloudApi/v3/search?query=q=index_s:publications&wt=json&fq=category_ss:developer';
+export const VALIDATE_USERLOGIN_API_ENDPOINT = '/validateUserLogin';
+export const FETCH_PUBLICATIONS_API_ENDPOINT = '/search?query=pub';
